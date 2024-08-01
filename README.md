@@ -1,6 +1,6 @@
 # Simple-Top-Down-Car-Controller
 
-This is a simple top down car controller using transform to move the car.
+This is a simple 2d top down car controller using transform to move the car.
 Open "Demo" scene in "Simple Top Down Car Controller/_Scenes". Use WASD to move the car.
 
 movement code is in "PlayerCarController.cs" script in: "Simple Top Down Car Controller/_Scripts". These are the settings you can change:![image](https://github.com/user-attachments/assets/420219e5-cdc2-4f67-a006-a423d2498662)
